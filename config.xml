@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>DrumKit</name>
+
+  <description>
+      Show your skills.
+  </description>
+
+  <author href="https://build.phonegap.com" email="akdutta029748@gmail.com">
+  Ankit dutta
+  </author>
+
+</widget>
